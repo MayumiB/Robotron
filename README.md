@@ -1,2 +1,2 @@
 # Robotron
-Projeto realizado com o instrutor Pedro Marins (Alura).
+Projeto realizado com as aulas do instrutor Pedro Marins (Alura).
